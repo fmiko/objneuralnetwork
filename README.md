@@ -1,6 +1,6 @@
-# objneuralnetwork
- object oriented neural network in Python
-Dependencies
+object oriented neural network in Python
+
+Dependencies:
 ----
 - NumPy
 - AppNope
